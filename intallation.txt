@@ -1,0 +1,7 @@
+Install Boldify either via the WordPress.org plugin directory or by uploading the files to your server.
+
+After activating Boldify plugin, go to plugin menu "Boldify Option".
+
+Select a word to make it bold on all pages and articles.
+
+That’s it. You’re ready to go!
